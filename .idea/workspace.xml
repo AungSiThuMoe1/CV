@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e680441-5eb9-47e3-9066-61acdaec248f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQvd2Vi.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQvd2Vi.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firebase.json" beforeDir="false" afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_30" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1k0KOguELkfxtNuIUqxjRcNsV8c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e680441-5eb9-47e3-9066-61acdaec248f" name="Default Changelist" comment="" />
+      <created>1604832038901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604832038901</updated>
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1604912592250</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604912592250</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="142" key="CommitChangelistDialog2" timestamp="1604912592068">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="137" y="142" key="CommitChangelistDialog2/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604912592068" />
+    <state width="1150" height="279" key="GridCell.Tab.0.bottom" timestamp="1604913028873">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state width="1150" height="237" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.23.1792.1028@0.23.1792.1028" timestamp="1604911609887" />
+    <state width="1150" height="279" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604913028873" />
+    <state width="1150" height="279" key="GridCell.Tab.0.center" timestamp="1604913028872">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state width="1150" height="237" key="GridCell.Tab.0.center/1792.23.1920.1057/0.23.1792.1028@0.23.1792.1028" timestamp="1604911609886" />
+    <state width="1150" height="279" key="GridCell.Tab.0.center/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604913028872" />
+    <state width="1150" height="279" key="GridCell.Tab.0.left" timestamp="1604913028872">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state width="1150" height="237" key="GridCell.Tab.0.left/1792.23.1920.1057/0.23.1792.1028@0.23.1792.1028" timestamp="1604911609886" />
+    <state width="1150" height="279" key="GridCell.Tab.0.left/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604913028872" />
+    <state width="1150" height="279" key="GridCell.Tab.0.right" timestamp="1604913028873">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state width="1150" height="237" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1028@0.23.1792.1028" timestamp="1604911609887" />
+    <state width="1150" height="279" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604913028873" />
+    <state x="0" y="115" key="MergeDialog" timestamp="1604914934770">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="0" y="115" key="MergeDialog/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604914934770" />
+    <state x="306" y="261" key="MultipleFileMergeDialog" timestamp="1604914938932">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="306" y="261" key="MultipleFileMergeDialog/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604914938932" />
+    <state x="196" y="278" key="Vcs.Push.Dialog.v2" timestamp="1604914697745">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="196" y="278" key="Vcs.Push.Dialog.v2/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604912555189" />
+    <state x="196" y="278" key="Vcs.Push.Dialog.v2/1792.23.1920.1057/0.23.1792.1031@0.23.1792.1031" timestamp="1604914697745" />
+    <state x="566" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1604893835067">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="566" y="369" key="com.intellij.ide.util.TipDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1604893835067" />
+    <state x="329" y="258" key="git4idea.branch.GitSmartOperationDialog" timestamp="1604914893379">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="329" y="258" key="git4idea.branch.GitSmartOperationDialog/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604914893379" />
+  </component>
+</project>
