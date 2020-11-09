@@ -28,6 +28,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1k0KOguELkfxtNuIUqxjRcNsV8c" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -73,10 +74,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="142" key="CommitChangelistDialog2" timestamp="1604912592068">
+    <state x="137" y="142" key="CommitChangelistDialog2" timestamp="1604915047312">
       <screen x="0" y="23" width="1792" height="1030" />
     </state>
-    <state x="137" y="142" key="CommitChangelistDialog2/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604912592068" />
+    <state x="137" y="142" key="CommitChangelistDialog2/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604915047312" />
     <state width="1150" height="279" key="GridCell.Tab.0.bottom" timestamp="1604913028873">
       <screen x="0" y="23" width="1792" height="1030" />
     </state>
@@ -97,14 +98,14 @@
     </state>
     <state width="1150" height="237" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1028@0.23.1792.1028" timestamp="1604911609887" />
     <state width="1150" height="279" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604913028873" />
-    <state x="0" y="115" key="MergeDialog" timestamp="1604914934770">
+    <state x="0" y="115" key="MergeDialog" timestamp="1604915084010">
       <screen x="0" y="23" width="1792" height="1030" />
     </state>
-    <state x="0" y="115" key="MergeDialog/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604914934770" />
-    <state x="306" y="261" key="MultipleFileMergeDialog" timestamp="1604914938932">
+    <state x="0" y="115" key="MergeDialog/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604915084010" />
+    <state x="306" y="261" key="MultipleFileMergeDialog" timestamp="1604915096355">
       <screen x="0" y="23" width="1792" height="1030" />
     </state>
-    <state x="306" y="261" key="MultipleFileMergeDialog/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604914938932" />
+    <state x="306" y="261" key="MultipleFileMergeDialog/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604915096355" />
     <state x="196" y="278" key="Vcs.Push.Dialog.v2" timestamp="1604914697745">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
@@ -114,9 +115,17 @@
       <screen x="0" y="23" width="1792" height="1028" />
     </state>
     <state x="566" y="369" key="com.intellij.ide.util.TipDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1604893835067" />
+    <state x="376" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604915103502">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="376" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604915103502" />
     <state x="329" y="258" key="git4idea.branch.GitSmartOperationDialog" timestamp="1604914893379">
       <screen x="0" y="23" width="1792" height="1030" />
     </state>
     <state x="329" y="258" key="git4idea.branch.GitSmartOperationDialog/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604914893379" />
+    <state x="304" y="336" key="git4idea.merge.GitMergeDialog" timestamp="1604915060159">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="304" y="336" key="git4idea.merge.GitMergeDialog/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604915060159" />
   </component>
 </project>
