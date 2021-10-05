@@ -4,11 +4,20 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e680441-5eb9-47e3-9066-61acdaec248f" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8e680441-5eb9-47e3-9066-61acdaec248f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/screens/home_layout.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/home_screen_small.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/responsive.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/profile.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQvd2Vi.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQvd2Vi.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/firebase.json" beforeDir="false" afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/manifest.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,17 +44,23 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/icons" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/icons" />
+      <recent name="$PROJECT_DIR$/lib/screens" />
+      <recent name="$PROJECT_DIR$/web" />
       <recent name="$PROJECT_DIR$/assets/images" />
     </key>
   </component>
@@ -80,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604915110634</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1604918617915</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604918617915</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -88,66 +110,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="60" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604915255082">
-      <screen x="0" y="23" width="1792" height="1030" />
+    <state width="1403" height="276" key="GridCell.Tab.0.bottom" timestamp="1633452784369">
+      <screen x="0" y="25" width="1792" height="1024" />
     </state>
-    <state x="60" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604915255082" />
-    <state x="137" y="142" key="CommitChangelistDialog2" timestamp="1604915940210">
-      <screen x="0" y="23" width="1792" height="1030" />
+    <state width="1403" height="276" key="GridCell.Tab.0.bottom/0.25.1792.1024@0.25.1792.1024" timestamp="1633452784369" />
+    <state width="1403" height="276" key="GridCell.Tab.0.center" timestamp="1633452784368">
+      <screen x="0" y="25" width="1792" height="1024" />
     </state>
-    <state x="137" y="142" key="CommitChangelistDialog2/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604915940210" />
-    <state width="1150" height="279" key="GridCell.Tab.0.bottom" timestamp="1604915299158">
-      <screen x="0" y="23" width="1792" height="1030" />
+    <state width="1403" height="276" key="GridCell.Tab.0.center/0.25.1792.1024@0.25.1792.1024" timestamp="1633452784368" />
+    <state width="1403" height="276" key="GridCell.Tab.0.left" timestamp="1633452784367">
+      <screen x="0" y="25" width="1792" height="1024" />
     </state>
-    <state width="1150" height="237" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.23.1792.1028@0.23.1792.1028" timestamp="1604911609887" />
-    <state width="1150" height="279" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604915299158" />
-    <state width="1150" height="279" key="GridCell.Tab.0.center" timestamp="1604915299157">
-      <screen x="0" y="23" width="1792" height="1030" />
+    <state width="1403" height="276" key="GridCell.Tab.0.left/0.25.1792.1024@0.25.1792.1024" timestamp="1633452784367" />
+    <state width="1403" height="276" key="GridCell.Tab.0.right" timestamp="1633452784368">
+      <screen x="0" y="25" width="1792" height="1024" />
     </state>
-    <state width="1150" height="237" key="GridCell.Tab.0.center/1792.23.1920.1057/0.23.1792.1028@0.23.1792.1028" timestamp="1604911609886" />
-    <state width="1150" height="279" key="GridCell.Tab.0.center/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604915299157" />
-    <state width="1150" height="279" key="GridCell.Tab.0.left" timestamp="1604915299157">
-      <screen x="0" y="23" width="1792" height="1030" />
-    </state>
-    <state width="1150" height="237" key="GridCell.Tab.0.left/1792.23.1920.1057/0.23.1792.1028@0.23.1792.1028" timestamp="1604911609886" />
-    <state width="1150" height="279" key="GridCell.Tab.0.left/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604915299157" />
-    <state width="1150" height="279" key="GridCell.Tab.0.right" timestamp="1604915299157">
-      <screen x="0" y="23" width="1792" height="1030" />
-    </state>
-    <state width="1150" height="237" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1028@0.23.1792.1028" timestamp="1604911609887" />
-    <state width="1150" height="279" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604915299157" />
-    <state x="0" y="115" key="MergeDialog" timestamp="1604915204954">
-      <screen x="0" y="23" width="1792" height="1030" />
-    </state>
-    <state x="0" y="115" key="MergeDialog/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604915204954" />
-    <state x="306" y="261" key="MultipleFileMergeDialog" timestamp="1604915204980">
-      <screen x="0" y="23" width="1792" height="1030" />
-    </state>
-    <state x="306" y="261" key="MultipleFileMergeDialog/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604915204980" />
-    <state x="196" y="278" key="Vcs.Push.Dialog.v2" timestamp="1604915476755">
-      <screen x="0" y="23" width="1792" height="1030" />
-    </state>
-    <state x="196" y="278" key="Vcs.Push.Dialog.v2/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604915476755" />
-    <state x="196" y="278" key="Vcs.Push.Dialog.v2/1792.23.1920.1057/0.23.1792.1031@0.23.1792.1031" timestamp="1604914697745" />
-    <state x="566" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1604893835067">
-      <screen x="0" y="23" width="1792" height="1028" />
-    </state>
-    <state x="566" y="369" key="com.intellij.ide.util.TipDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1604893835067" />
-    <state x="376" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604915288832">
-      <screen x="0" y="23" width="1792" height="1030" />
-    </state>
-    <state x="376" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604915288832" />
-    <state x="329" y="258" key="git4idea.branch.GitSmartOperationDialog" timestamp="1604915192071">
-      <screen x="0" y="23" width="1792" height="1030" />
-    </state>
-    <state x="329" y="258" key="git4idea.branch.GitSmartOperationDialog/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604915192071" />
-    <state x="304" y="336" key="git4idea.merge.GitMergeDialog" timestamp="1604915060159">
-      <screen x="0" y="23" width="1792" height="1030" />
-    </state>
-    <state x="304" y="336" key="git4idea.merge.GitMergeDialog/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604915060159" />
-    <state x="264" y="336" key="git4idea.merge.GitPullDialog" timestamp="1604915321399">
-      <screen x="0" y="23" width="1792" height="1030" />
-    </state>
-    <state x="264" y="336" key="git4idea.merge.GitPullDialog/1792.23.1920.1057/0.23.1792.1030@0.23.1792.1030" timestamp="1604915321399" />
+    <state width="1403" height="276" key="GridCell.Tab.0.right/0.25.1792.1024@0.25.1792.1024" timestamp="1633452784368" />
   </component>
 </project>

@@ -1,47 +1,50 @@
 import 'package:flutter/material.dart';
 
-class HomeScreen extends StatelessWidget {
+class HomeScreenSmall extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
-    double width = size.width/10;
     double height = 10;
     return  Scaffold(
-        body: Padding(
-          padding: EdgeInsets.only(left: width,right: width,top: 20),
-          child: ListView(
+      body: SingleChildScrollView(
+        child: Padding(
+          padding: EdgeInsets.only(left: 10,right: 10,top: 20),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Row(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: [
-                Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Text('Aung Si Thu Moe (Mobile Developer)\n',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 16),),
-                    TitleWithValueRow(title: 'Address',value:'47 Khay Mar Street, Sanchaung, Yangon'),
-                    TitleWithValueRow(title: 'Mobile',value:'09425296608,09697371330'),
-                    TitleWithValueRow(title: 'Email',value:'aungsithumoe1@gmail.com'),
-                    TitleWithValueRow(title: 'Nationality',value:'Myanmar'),
-                    TitleWithValueRow(title: 'Religion',value:'Buddha'),
-                    TitleWithValueRow(title: 'Date Of Birth',value:'26 May 1996'),
-                  ],
-                ),
-                Container(
-                  width: 150,
-                  height: 150,
-                  child: Image.asset('assets/images/profile.jpg',),
-                )
-              ],),
+
+              Container(
+                child: Column(children: [
+                  Container(
+                    margin: EdgeInsets.only(bottom: 20),
+                    alignment: Alignment.topLeft,
+                    decoration: BoxDecoration(
+                        color: Colors.lightGreen,
+                        shape: BoxShape.circle,
+                        image: DecorationImage(image: AssetImage('assets/images/profile.jpg',))
+                    ),
+                    width: 150,
+                    height: 150,
+                  ),
+
+                  Text('Aung Si Thu Moe (Mobile Developer)\n',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 16),),
+                  TitleWithValueRow(title: 'Address',value:'47 Khay Mar Street, Sanchaung, Yangon'),
+                  TitleWithValueRow(title: 'Mobile',value:'09425296608,09697371330'),
+                  TitleWithValueRow(title: 'Email',value:'aungsithumoe1@gmail.com'),
+                  TitleWithValueRow(title: 'Nationality',value:'Myanmar'),
+                  TitleWithValueRow(title: 'Religion',value:'Buddha'),
+                  TitleWithValueRow(title: 'Date Of Birth',value:'26 May 1996'),
+                ],),
+              ),
               SizedBox(height: 20,),
-             /* Row(
-                children: [ Text('Expectation Salary',style: TextStyle(fontSize: 16),), SizedBox(width: 20,), Text(': 12 Lakhs',style: TextStyle(fontSize: 16)),],),*/
+              /* Row(
+                  children: [ Text('Expectation Salary',style: TextStyle(fontSize: 16),), SizedBox(width: 20,), Text(': 12 Lakhs',style: TextStyle(fontSize: 16)),],),*/
               SubTitleWithUnderLine(subtitle: 'EDUCATION',),
               EducationTitleWithValueRow(title: 'Dec 2012 - Sep 2017',value: 'Bachelor in Computer Science',subValue: 'Computer University (Thaton)',),
               EducationTitleWithValueRow(title: 'Oct 2015 - Nov 2015',value: 'Certificate in Samsung Tech Institute Mobile Application Training',subValue: 'University of Computer Studies in Yangon',),
               EducationTitleWithValueRow(title: 'Oct 2016 - Nov 2016',value: 'Certificate in Information Technology Pass Exam (IP Exam)',subValue: 'Information Technology Professional Examination Council (ITPEC)',),
               EducationTitleWithValueRow(title: 'April 2020 – June 2020',value: 'Certificate in Introduction to Flutter Development Using Dart',subValue: 'Certificate in The Complete Flutter Development BootCamp Using Dart',),
-             SubTitleWithUnderLine(subtitle: 'TECHNICAL SKILLS',),
+              SubTitleWithUnderLine(subtitle: 'TECHNICAL SKILLS',),
               SizedBox(height: height,),
               TitleWithValueRow(title: '• Programming',value:'Android Programming with java, iOS(swift programming), PHP, Flutter, Kotlin, MVVM Framework',width: 120),
               SizedBox(height: height,),
@@ -104,6 +107,7 @@ class HomeScreen extends StatelessWidget {
               SizedBox(height: height,),
 
               Text('- Training (January 2016-Now)',style: TextStyle(fontWeight: FontWeight.bold),),
+              SizedBox(height: height,),
               Text('Thaton Township\n',),
               Text('• Android Trainer',style: TextStyle(fontWeight: FontWeight.bold),),
               Text('• Java SE Trainer',style: TextStyle(fontWeight: FontWeight.bold),),
@@ -122,6 +126,7 @@ class HomeScreen extends StatelessWidget {
             ],
           ),
         ),
+      ),
     );
   }
 }
@@ -140,15 +145,15 @@ class TitleWithValueRow extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: MediaQuery.of(context).size.width/2,
+      margin: EdgeInsets.only(left:20,top: 5,right: 20),
       child: Row(
         children: [
-        Container(
-            width: width,
-            child: Text(title)),
-        SizedBox(width: 20,),
-        Expanded(child: Text(': $value',maxLines: null,)),
-      ],),
+          Container(
+              width: width,
+              child: Text(title)),
+          SizedBox(width: 20,),
+          Expanded(child: Text(': $value',)),
+        ],),
     );
   }
 }
@@ -158,7 +163,7 @@ class SubTitleWithUnderLine extends StatelessWidget {
   const SubTitleWithUnderLine({
     this.subtitle,
     Key key,
-}):super(key: key);
+  }):super(key: key);
   final String subtitle;
   @override
   Widget build(BuildContext context) {
@@ -168,7 +173,7 @@ class SubTitleWithUnderLine extends StatelessWidget {
         SizedBox(height: 20,),
         Text(subtitle,style: TextStyle(fontWeight: FontWeight.bold,fontSize: 20),),
         Divider(height: 2,
-        color: Colors.black,),
+          color: Colors.black,),
         SizedBox(height: 10,),
       ],
     );
@@ -189,12 +194,12 @@ class EducationTitleWithValueRow extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.symmetric(vertical: 10),
-      child: ListTile(
-        leading: Text('$title :'),
-        title: Text(value),
-        subtitle: Text(subValue),
-      )
+        padding: const EdgeInsets.symmetric(vertical: 10),
+        child: ListTile(
+          leading: Text('$title :'),
+          title: Text(value),
+          subtitle: Text(subValue),
+        )
     );
   }
 }

@@ -1,7 +1,6 @@
 {
   "hosting": {
-    "site": "aungsithumoe-cv",
-    "public": "build/web",
+    "public": "build web",
     "ignore": [
       "firebase.json",
       "**/.*",

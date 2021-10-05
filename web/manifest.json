@@ -1,11 +1,11 @@
 {
-    "name": "test_web_app",
-    "short_name": "test_web_app",
+    "name": "Application for Mobile Developer",
+    "short_name": "aungsithumoe-cv",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Aung Si Thu Moe (Mobile Developer)",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
