@@ -25,10 +25,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e680441-5eb9-47e3-9066-61acdaec248f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQvd2Vi.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQvd2Vi.cache" afterDir="false" />
+    <list default="true" id="8e680441-5eb9-47e3-9066-61acdaec248f" name="Default Changelist" comment="main.yml">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firebase.json" beforeDir="false" afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641279126125</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="main.yml">
+      <created>1662561324794</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662561324794</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,54 +167,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <MESSAGE value="version1.0.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="version1.0.1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="295" y="107" key="CommitChangelistDialog2" timestamp="1641279126046">
-      <screen x="0" y="25" width="1792" height="1019" />
-    </state>
-    <state x="295" y="107" key="CommitChangelistDialog2/0.25.1792.1019@0.25.1792.1019" timestamp="1641279126046" />
-    <state x="295" y="108" key="CommitChangelistDialog2/0.25.1792.1026@0.25.1792.1026" timestamp="1633454836820" />
-    <state width="1282" height="273" key="GridCell.Tab.0.bottom" timestamp="1640786855725">
-      <screen x="0" y="25" width="1792" height="1023" />
-    </state>
-    <state width="1282" height="273" key="GridCell.Tab.0.bottom/0.25.1792.1023@0.25.1792.1023" timestamp="1640786855725" />
-    <state width="1403" height="276" key="GridCell.Tab.0.bottom/0.25.1792.1024@0.25.1792.1024" timestamp="1633452784369" />
-    <state width="1403" height="276" key="GridCell.Tab.0.bottom/0.25.1792.1026@0.25.1792.1026" timestamp="1633456768647" />
-    <state width="1282" height="342" key="GridCell.Tab.0.bottom/0.25.1792.1029@0.25.1792.1029" timestamp="1633518968976" />
-    <state width="1282" height="273" key="GridCell.Tab.0.center" timestamp="1640786855724">
-      <screen x="0" y="25" width="1792" height="1023" />
-    </state>
-    <state width="1282" height="273" key="GridCell.Tab.0.center/0.25.1792.1023@0.25.1792.1023" timestamp="1640786855724" />
-    <state width="1403" height="276" key="GridCell.Tab.0.center/0.25.1792.1024@0.25.1792.1024" timestamp="1633452784368" />
-    <state width="1403" height="276" key="GridCell.Tab.0.center/0.25.1792.1026@0.25.1792.1026" timestamp="1633456768647" />
-    <state width="1282" height="342" key="GridCell.Tab.0.center/0.25.1792.1029@0.25.1792.1029" timestamp="1633518968976" />
-    <state width="1282" height="273" key="GridCell.Tab.0.left" timestamp="1640786855724">
-      <screen x="0" y="25" width="1792" height="1023" />
-    </state>
-    <state width="1282" height="273" key="GridCell.Tab.0.left/0.25.1792.1023@0.25.1792.1023" timestamp="1640786855724" />
-    <state width="1403" height="276" key="GridCell.Tab.0.left/0.25.1792.1024@0.25.1792.1024" timestamp="1633452784367" />
-    <state width="1403" height="276" key="GridCell.Tab.0.left/0.25.1792.1026@0.25.1792.1026" timestamp="1633456768647" />
-    <state width="1282" height="342" key="GridCell.Tab.0.left/0.25.1792.1029@0.25.1792.1029" timestamp="1633518968976" />
-    <state width="1282" height="273" key="GridCell.Tab.0.right" timestamp="1640786855724">
-      <screen x="0" y="25" width="1792" height="1023" />
-    </state>
-    <state width="1282" height="273" key="GridCell.Tab.0.right/0.25.1792.1023@0.25.1792.1023" timestamp="1640786855724" />
-    <state width="1403" height="276" key="GridCell.Tab.0.right/0.25.1792.1024@0.25.1792.1024" timestamp="1633452784368" />
-    <state width="1403" height="276" key="GridCell.Tab.0.right/0.25.1792.1026@0.25.1792.1026" timestamp="1633456768647" />
-    <state width="1282" height="342" key="GridCell.Tab.0.right/0.25.1792.1029@0.25.1792.1029" timestamp="1633518968976" />
-    <state x="150" y="115" key="SettingsEditor" timestamp="1633518724019">
-      <screen x="0" y="25" width="1792" height="1029" />
-    </state>
-    <state x="150" y="115" key="SettingsEditor/0.25.1792.1029@0.25.1792.1029" timestamp="1633518724019" />
-    <state x="336" y="272" key="Vcs.Push.Dialog.v2" timestamp="1641279133294">
-      <screen x="0" y="25" width="1792" height="1019" />
-    </state>
-    <state x="336" y="272" key="Vcs.Push.Dialog.v2/0.25.1792.1019@0.25.1792.1019" timestamp="1641279133294" />
-    <state x="336" y="274" key="Vcs.Push.Dialog.v2/0.25.1792.1026@0.25.1792.1026" timestamp="1633455361277" />
-    <state x="405" y="329" key="git4idea.merge.GitPullDialog" timestamp="1633455352514">
-      <screen x="0" y="25" width="1792" height="1026" />
-    </state>
-    <state x="405" y="329" key="git4idea.merge.GitPullDialog/0.25.1792.1026@0.25.1792.1026" timestamp="1633455352514" />
+    <MESSAGE value="main.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="main.yml" />
   </component>
 </project>
