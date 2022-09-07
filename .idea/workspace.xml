@@ -3,6 +3,9 @@
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -23,10 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e680441-5eb9-47e3-9066-61acdaec248f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQvd2Vi.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQvd2Vi.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firebase.json" beforeDir="false" afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,10 +58,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/icons" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -82,6 +88,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -128,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641278307688</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="version1.0.1">
+      <created>1641279126125</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1641279126125</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +155,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
@@ -148,10 +163,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="version1.0.1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="295" y="107" key="CommitChangelistDialog2" timestamp="1641278307543">
+    <state x="295" y="107" key="CommitChangelistDialog2" timestamp="1641279126046">
       <screen x="0" y="25" width="1792" height="1019" />
     </state>
-    <state x="295" y="107" key="CommitChangelistDialog2/0.25.1792.1019@0.25.1792.1019" timestamp="1641278307543" />
+    <state x="295" y="107" key="CommitChangelistDialog2/0.25.1792.1019@0.25.1792.1019" timestamp="1641279126046" />
     <state x="295" y="108" key="CommitChangelistDialog2/0.25.1792.1026@0.25.1792.1026" timestamp="1633454836820" />
     <state width="1282" height="273" key="GridCell.Tab.0.bottom" timestamp="1640786855725">
       <screen x="0" y="25" width="1792" height="1023" />
@@ -185,10 +200,10 @@
       <screen x="0" y="25" width="1792" height="1029" />
     </state>
     <state x="150" y="115" key="SettingsEditor/0.25.1792.1029@0.25.1792.1029" timestamp="1633518724019" />
-    <state x="336" y="272" key="Vcs.Push.Dialog.v2" timestamp="1641278315696">
+    <state x="336" y="272" key="Vcs.Push.Dialog.v2" timestamp="1641279133294">
       <screen x="0" y="25" width="1792" height="1019" />
     </state>
-    <state x="336" y="272" key="Vcs.Push.Dialog.v2/0.25.1792.1019@0.25.1792.1019" timestamp="1641278315696" />
+    <state x="336" y="272" key="Vcs.Push.Dialog.v2/0.25.1792.1019@0.25.1792.1019" timestamp="1641279133294" />
     <state x="336" y="274" key="Vcs.Push.Dialog.v2/0.25.1792.1026@0.25.1792.1026" timestamp="1633455361277" />
     <state x="405" y="329" key="git4idea.merge.GitPullDialog" timestamp="1633455352514">
       <screen x="0" y="25" width="1792" height="1026" />
